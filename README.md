@@ -58,7 +58,7 @@ stored in a **vector store** as contextual data. This allows efficient
 access to these vectors by the language model. We used the open source
 local VectorDB **FAISS** from Meta AI.
 
-## Question Generation & Answering {#question-generation--answering}
+## Question Generation & Answering
 
 The vectors and contextual data are provided to
 [`meta-llama/Llama-2-7b-chat-hf`](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
