@@ -17,12 +17,12 @@ knowledge.
 In our case, the knowledge is the PDF documents provided, and the output
 is our question/answer pairs.
 
-!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
+![alt](https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
 
 
 ## Project Workflow
 
-!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
+![alt](https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
 
 # RAG Implementation
 
