@@ -17,12 +17,12 @@ knowledge.
 In our case, the knowledge is the PDF documents provided, and the output
 is our question/answer pairs.
 
-!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png)
+!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
 
 
 ## Project Workflow
 
-!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png)
+!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
 
 # RAG Implementation
 
@@ -87,7 +87,7 @@ It is somewhat like a voting system, where each of these approaches
 assigns a score, and we then calculate the average of these scores to
 obtain the final result.
 
-!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png)
+!(https://github.com/ussa24/document-based-qa/blob/main/images/eval.png?raw=true)
 
 The use of cosine similarity at the beginning of the algorithm is used
 to filter out responses that lack any form of accuracy, for example,
