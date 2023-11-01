@@ -1,6 +1,6 @@
 # Document based Question Generation, Question Answering and Auto Answer Evaluation using RAG, LLaMA-2, LangChain, VectorDB, HuggingFace Embeddings
 
-Collab Notebook: [DOCUMENT QG-QA LLAMA-2](https://colab.research.google.com/drive/1ZqVojoW_4BaGi6akrR4Ko_A_lQBrGva6#scrollTo=FvFU740muumN)
+Collab Notebook: [DOCUMENT QG-QA LLAMA-2](https://colab.research.google.com/drive/1ZqVojoW_4BaGi6akrR4Ko_A_lQBrGva6?usp=sharing)
 
 ## Project Introduction
 
